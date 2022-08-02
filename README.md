@@ -5,7 +5,7 @@ pYcrack - Simple Python password cracker
 • Supported modes are md5,sha256,sha512,sha1,sha224,sha384<br>
 ## Getting Started
 ### Dependencies
-* Linux OS is recommended if any interface issues
+* Linux OS is recommended
 ### Installing
 ```
 git clone https://github.com/Vtechster/pYcrack
