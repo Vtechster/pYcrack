@@ -16,7 +16,7 @@ python3 pycrack.py
 ```
 ### Usage
 ```
-* python pycrack.py -H <hashed string> -w <wordlist> -m <hash type>
+python pycrack.py -H <hashed string> -w <wordlist> -m <hash type>
 ```
 ## Authors
 Vansh Aggarwal (Vtechster) <br>
